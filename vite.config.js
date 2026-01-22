@@ -11,17 +11,3 @@ export default defineConfig({
 
 ---
 
-#### **📄 ARCHIVO 7: .gitignore**
-
-1. Click en **"Add file"** → **"Create new file"**
-2. Nombre: `.gitignore` (sí, empieza con punto)
-3. Pega este contenido:
-```
-node_modules
-dist
-dist-ssr
-*.local
-.vscode
-.idea
-.DS_Store
-*.log
